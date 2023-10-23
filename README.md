@@ -1,11 +1,8 @@
 # TGV-delay-predictions
 
 ## Objectif
-- prédire le temps de retard moyen des trains sur une ligne sur un mois
---> predire retard_moyen_arrivee? ou retard_moyen_tous_trains_arrivee?
+- prédire le temps de retard moyen des trains sur une ligne sur un mois (retard_moyen_arrivee)
 - prédire la cause du retard (en pourcentage pour chaque cause potentielle) sur une ligne sur un mois
-
-- alternative --> fusionner toutes les lignes sur un mois et predire sur un mois pour toute les lignes à la fois
 
 ## Questions
 
